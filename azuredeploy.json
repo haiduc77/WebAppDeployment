@@ -183,7 +183,7 @@
             "displayName": "VismaTaskApp"
           },
           "properties": {
-            "packageUri": "https://github.com/haiduc77/AzureWebAppAutoDeployment/raw/master/WebAppToDeploy/webapplication.zip",
+            "packageUri": "https://github.com/haiduc77/WebAppDeployment/raw/master/WebAppToDeploy/webapplication.zip",
             "dbType": "None",
             "connectionString": ""
           }
