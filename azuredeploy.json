@@ -185,10 +185,7 @@
           "properties": {
             "packageUri": "https://github.com/haiduc77/AzureWebAppAutoDeployment/raw/master/WebAppToDeploy/webapplication.zip",
             "dbType": "None",
-            "connectionString": "",
-            "setParameters": {
-              "IIS Web Application Name": "[variables('webSiteName')]"
-            }
+            "connectionString": ""
           }
         }
       ]
