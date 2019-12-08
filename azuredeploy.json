@@ -71,8 +71,8 @@
       "metadata": {
         "description": "Describes the performance level for Edition"
       }
-    },
-  },
+    }
+},
   "variables": {
     "webSiteName": "[concat('webSite', uniqueString(resourceGroup().id))]",
     "sqlserverName": "[concat('sqlserver', uniqueString(resourceGroup().id))]"
